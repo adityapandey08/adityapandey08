@@ -9,7 +9,7 @@
 💡 Currently working on a **startup idea** focused on tracking and controlling **AI usage** aiming to bring a **real impact in the AI-driven world**.  
 
 👨‍💻 Backend Developer with **~2 years of corporate experience**, including:  
-- 1+ year building **production-grade REST APIs** with **Python & FastAPI**.  
+- 2+ year building **production-grade REST APIs** with **Python & FastAPI**.  
 - Experience deploying scalable APIs on **GCP VMs** with **MongoDB integration**.  
 - Skilled in **Git, FastAPI, Cloud deployments**, and **caching with Redis**.  
 - Currently enhancing expertise in **System Design, DevOps, and DSA problem-solving**.  
